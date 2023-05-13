@@ -1,0 +1,18 @@
+// Vitest Snapshot v1
+
+exports[`snapShot > component snapshot 1`] = `
+<div>
+  <div
+    class="no_image_box MuiBox-root css-0"
+  >
+    <img
+      src="/example/noData.png"
+    />
+    <h5
+      class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+    >
+      no image
+    </h5>
+  </div>
+</div>
+`;

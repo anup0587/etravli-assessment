@@ -1,0 +1,36 @@
+// Vitest Snapshot v1
+
+exports[`RatingChips > matches snapshot 1`] = `
+<div>
+  <div
+    class="MuiChip-root MuiChip-outlined MuiChip-sizeMedium MuiChip-colorPrimary MuiChip-outlinedPrimary movie_rating_chip css-196205-MuiChip-root"
+    data-testid="chip"
+  >
+    <span
+      class="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+    >
+      IMDb -  80%
+    </span>
+  </div>
+  <div
+    class="MuiChip-root MuiChip-outlined MuiChip-sizeMedium MuiChip-colorPrimary MuiChip-outlinedPrimary movie_rating_chip css-196205-MuiChip-root"
+    data-testid="chip"
+  >
+    <span
+      class="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+    >
+      Rotten Tomatoes -  75%
+    </span>
+  </div>
+  <div
+    class="MuiChip-root MuiChip-outlined MuiChip-sizeMedium MuiChip-colorPrimary MuiChip-outlinedPrimary movie_rating_chip css-196205-MuiChip-root"
+    data-testid="chip"
+  >
+    <span
+      class="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+    >
+      Metacritic -  68%
+    </span>
+  </div>
+</div>
+`;

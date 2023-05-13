@@ -1,0 +1,22 @@
+.movie_list_container {
+    border-right: 1px solid #ccc;
+
+    .movie_list_scroll_container {
+        max-height: 600px;
+        overflow-y: auto;
+
+        .movie_list_table {
+            .movie_list_table_row {
+                cursor: pointer;
+
+                &:hover {
+                    background-color: #eef4fc !important;
+                }
+            }
+
+            .activeClass {
+                background-color: #eef4fc !important;
+            }
+        }
+    }
+}
